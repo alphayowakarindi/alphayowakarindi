@@ -1,7 +1,9 @@
 ### Hi there 👋
 #### I'm Alphayo Wakarindi
 
-I'm a full stack web developer that mostly breaths and lives code. I enjoy working with vanilla CSS, Vue, React, Rails, Laravel and Livewire.
+I'm a full stack web developer that mostly breaths, lives code and constantly learning. I enjoy working with vanilla CSS, Vue, React, Rails, Laravel and Livewire and currently a student at Microverse, an online school for international software developers. 
+
+
 
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alphayo-wakarindi-15a825236/)
