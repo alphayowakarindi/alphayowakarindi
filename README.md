@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm Alphayo Wakarindi
 
-I'm a full-stack web developer that mostly breaths, lives code and constantly learning. I enjoy working with vanilla CSS, Javascript, Vue, React, Ruby, Rails, Php, Laravel and Livewire. Currently, a studentn at Microverse, an online school for international software developers. 
+I'm a full-stack web developer that mostly breaths, lives code and constantly learning. I enjoy working with vanilla CSS, Javascript, Vue, React, Ruby, Rails, Php, Laravel and Livewire. Currently, a student at Microverse, an online school for international software developers. 
 
 
 
