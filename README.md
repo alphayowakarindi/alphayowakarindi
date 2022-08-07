@@ -5,9 +5,6 @@ I'm a full-stack web developer that mostly breaths, lives code and constantly le
 
 
 
-## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alphayo-wakarindi-15a825236/)
-
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api?username=alphayowakarindi&show_icons=true&theme=dark)
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alphayowakarindi&theme=dark&layout=compact)
 
