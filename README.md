@@ -7,9 +7,6 @@ I'm a Full-Stack Web Developer, Content Creator on this <br>
 I enjoy working with vanilla CSS, Javascript, Vue, React, <br>
 Ruby, Rails, Php, and Laravel.
 
-To get in contact you can reach me at hello@alphayowakarindi.com
-
-
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api?username=alphayowakarindi&show_icons=true&theme=dark)
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alphayowakarindi&theme=dark&layout=compact)
 
