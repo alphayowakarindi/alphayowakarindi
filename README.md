@@ -1,7 +1,9 @@
 # Hi there 👋
 ### I'm Alphayo Wakarindi
 
-I'm a full-stack web developer that mostly breaths, lives code and constantly learning. I enjoy working with vanilla CSS, Javascript, Vue, React, Ruby, Rails, Php, and Laravel.
+I'm a full-stack web developer that mostly breaths, lives code 
+and constantly learning. I enjoy working with vanilla CSS, 
+Javascript, Vue, React, Ruby, Rails, Php, and Laravel.
 
 
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api?username=alphayowakarindi&show_icons=true&theme=dark)
