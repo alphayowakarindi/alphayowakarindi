@@ -4,8 +4,7 @@
 I'm a Full-Stack Web Developer, Content Creator on this <br>
 [Youtube channel](https://www.youtube.com/@alphayowakarindi/videos), and a Constant Learner. <br> 
 
-I enjoy working with vanilla CSS, Javascript, Vue, React, <br>
-Ruby, Rails, Php, and Laravel.
+I enjoy working with Laravel, Rails, Vue, and React.
 
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api?username=alphayowakarindi&show_icons=true&theme=dark)
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alphayowakarindi&theme=dark&layout=compact)
