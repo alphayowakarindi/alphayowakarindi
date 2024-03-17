@@ -1,10 +1,11 @@
 # Hi there 👋
 ### I'm Alphayo Wakarindi
 
-I'm a Full-Stack Web Developer, Content Creator on this <br>
-[Youtube channel](https://www.youtube.com/@alphayowakarindi/videos), and a Constant Learner. <br> 
+I'm a Full-Stack Web Developer focusing on PHP and Laravel, Content Creator on this <br>
+[Youtube channel](https://www.youtube.com/@alphayowakarindi/videos), huge fan of simplicity, and a Constant Learner. <br> 
 
-I enjoy working with Laravel, Rails, Vue, and React.
+In my journey, I've been able to acquire the following skills: HTML, CSS, Bootstrap, Tailwind, JavaScript, jQuery, React, Vue, Ruby and Rails, and, PHP and Laravel.
+
 
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api?username=alphayowakarindi&show_icons=true&theme=dark)
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alphayowakarindi&theme=dark&layout=compact)
