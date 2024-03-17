@@ -4,7 +4,7 @@
 I'm a Full-Stack Web Developer focusing on PHP and Laravel, Content Creator on this <br>
 [Youtube channel](https://www.youtube.com/@alphayowakarindi/videos), huge fan of simplicity, and a Constant Learner. <br> 
 
-In my journey, I've been able to acquire the following skills: HTML, CSS, Bootstrap, 
+In my journey, I've been able to acquire the following skills: HTML, CSS, Bootstrap, <br>
 Tailwind, JavaScript, jQuery, React, Vue, Ruby and Rails, and, PHP and Laravel.
 
 
