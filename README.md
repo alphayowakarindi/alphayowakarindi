@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm Alphayo Wakarindi
 
-Full-Stack Web Developer passionate about PHP, Laravel, and the TALL Stack<br> 
+Full-Stack Web Developer with a focus on PHP, Laravel, and the TALL Stack<br> 
 
 In my 3-4 years of self-teaching software development, I've been <br> 
 able to acquire the following skills: PHP, Ruby, Laravel, Livewire, <br> 
