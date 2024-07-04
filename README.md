@@ -4,13 +4,12 @@
 Full-Stack Web Developer with a focus on <br> 
 PHP, Laravel, and the TALL Stack<br> 
 
-Skills: PHP, Ruby, Laravel, Livewire, <br> 
-Rails, JavaScript, jQuery, Alpine.js, Vue.js, React, React Native, <br> 
-Tailwind CSS, and Bootstrap.
+Skills: PHP, Ruby, Laravel, Livewire, Rails, JavaScript, jQuery, <br>
+Alpine.js, Vue.js, React, React Native, Tailwind CSS, and Bootstrap.
 
- Open to New opportunities!
+Open to New opportunities!
 
- [HIRE ME](https://www.alphayowakarindi.com/contact)
+[HIRE ME](https://www.alphayowakarindi.com/contact)
 
 
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api?username=alphayowakarindi&show_icons=true&theme=dark)
