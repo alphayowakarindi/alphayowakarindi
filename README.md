@@ -4,8 +4,7 @@
 Full-Stack Web Developer with a focus on <br> 
 PHP, Laravel, and the TALL Stack<br> 
 
-In my 3-4 years of self-teaching software development, I've been <br> 
-able to acquire the following skills: PHP, Ruby, Laravel, Livewire, <br> 
+Skills: PHP, Ruby, Laravel, Livewire, <br> 
 Rails, JavaScript, jQuery, Alpine.js, Vue.js, React, React Native, <br> 
 Tailwind CSS, and Bootstrap.
 
