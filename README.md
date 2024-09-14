@@ -8,7 +8,7 @@ Skills: PHP, Ruby, Laravel, Livewire, Rails, JavaScript, jQuery, <br>
 Alpine.js, Vue.js, React, React Native, Tailwind CSS, and <br>
 Bootstrap.
 
-Open to New opportunities!
+Open to Work!
 
 [HIRE ME](https://www.alphayowakarindi.com/contact)
 
