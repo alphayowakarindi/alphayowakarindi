@@ -10,7 +10,7 @@ Bootstrap.
 
 Open to Work!
 
-[HIRE ME](https://www.alphayowakarindi.com/contact)
+To get in touch, you can reach me at alphayowakarindi@gmail.com.
 
 
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api?username=alphayowakarindi&show_icons=true&theme=dark)
