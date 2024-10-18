@@ -1,8 +1,7 @@
 # Hi there 👋
 ### I'm Alphayo Wakarindi
 
-Full-Stack Web Developer with a focus on <br> 
-PHP, Laravel, and the TALL Stack<br> 
+Full-Stack Web Developer, Content Creator & Constant<br>  Learner. <br> 
 
 Skills: PHP, Ruby, Laravel, Livewire, Rails, JavaScript, jQuery, <br>
 Alpine.js, Vue.js, React, React Native, Tailwind CSS, and <br>
