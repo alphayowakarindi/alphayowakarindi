@@ -7,8 +7,6 @@ Skills: PHP, Ruby, Laravel, Livewire, Rails, JavaScript, jQuery, <br>
 Alpine.js, Vue.js, React, React Native, Tailwind CSS, and <br>
 Bootstrap.
 
-Open to Work!
-
 To get in touch, you can reach me at alphayowakarindi@gmail.com.
 
 
