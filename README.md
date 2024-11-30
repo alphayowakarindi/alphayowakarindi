@@ -17,7 +17,7 @@ A **Full-Stack Developer** with a passion for building high-performing, scalable
 - 📚 Committed to continuous learning and staying ahead of emerging trends in technology.
 
 ### Let's Connect!
-I'd love to hear from you if you're looking for a passionate developer with a blend of technical expertise and creative problem-solving. Reach me at **alphayowakarindi@gmail.com**!
+I'd love to hear from you if you're looking for a passionate developer with a blend of technical expertise and creative problem-solving. You can reach me at **alphayowakarindi@gmail.com**!
 
 
 ![Alphayo's github stats](https://github-readme-stats.vercel.app/api?username=alphayowakarindi&show_icons=true&theme=dark)
